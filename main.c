@@ -23,8 +23,10 @@ int main(int argc, char *argv[])
     char replacement[10] = "";
     char traceFile[100] = "";
 
+    int = i;
+    
     /* Parse command-line arguments */
-    for(int i = 1; i < argc; i++)
+    for(i = 1; i < argc; i++)
     {
         if(strcmp(argv[i], "-s") == 0)
             cacheSize = atoi(argv[++i]);
