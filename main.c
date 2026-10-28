@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
     char replacement[10] = "";
     char traceFile[100] = "";
 
-    int = i;
+    int i;
     
     /* Parse command-line arguments */
     for(i = 1; i < argc; i++)
