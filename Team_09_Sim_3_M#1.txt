@@ -1,0 +1,28 @@
+Cache Simulator - CS3853 - Team #09
+
+Trace File(s):
+    A-9_new_trunk.trc
+
+***** Cache Input Parameters *****
+Cache Size:                     128 KB
+Block Size:                     64 bytes
+Associativity:                  2
+Replacement Policy:             rr
+Physical Memory:                256 MB
+Percent Memory Used by System:  50.0%
+Instructions / Time Slice:      50
+
+***** Cache Calculated Values *****
+Total # Blocks:                 2048
+Tag Size:                       12 bits
+Index Size:                     10 bits
+Total # Rows:                   1024
+Overhead Size:                  3328 bytes
+Implementation Memory Size:     131.25 KB (134400 bytes)
+Cost:                           $9.19
+
+***** Physical Memory Calculated Values *****
+Number of Physical Pages:       65536
+Number of Pages for System:     32768
+Size of Page Table Entry:       17 bits
+Total RAM for Page Table(s):    1114112 bytes
