@@ -7,7 +7,7 @@ Trace File(s):
 Cache Size:                     16 KB
 Block Size:                     32 bytes
 Associativity:                  8
-Replacement Policy:             rr
+Replacement Policy:             Round Robin
 Physical Memory:                128 MB
 Percent Memory Used by System:  20.0%
 Instructions / Time Slice:      10
