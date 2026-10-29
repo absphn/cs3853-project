@@ -123,7 +123,7 @@ int main(int argc, char *argv[])
     printf("Cache Size:                     %d KB\n", cacheSize);
     printf("Block Size:                     %d bytes\n", blockSize);
     printf("Associativity:                  %d\n", associativity);
-    printf("Replacement Policy:             %s\n", replacement);
+    printf("Replacement Policy:             Round Robin\n);
     printf("Physical Memory:                %d MB\n", physicalMemory);
     printf("Percent Memory Used by System:  %.1f%%\n", osPercent);
     printf("Instructions / Time Slice:      %d\n", timeSlice);
